@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "A premium social media application styled with an iridescent Liquid Glass aesthetic, featuring rich animations and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
